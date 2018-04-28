@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2-2_ProgrammingBasedOnEvents", "Assignment2-1_ProgrammingBasedOnEvents\Assignment2-2_ProgrammingBasedOnEvents.csproj", "{EED5FF6C-8106-459C-80DA-988EED7CBA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EED5FF6C-8106-459C-80DA-988EED7CBA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED5FF6C-8106-459C-80DA-988EED7CBA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED5FF6C-8106-459C-80DA-988EED7CBA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED5FF6C-8106-459C-80DA-988EED7CBA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330F2903-4BCB-4F90-905B-4073C96B126C}
+	EndGlobalSection
+EndGlobal
